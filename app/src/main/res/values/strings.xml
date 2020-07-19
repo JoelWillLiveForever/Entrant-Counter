@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Entrant Counter</string>
+    <string name="button_add">Add</string>
+    <string name="button_delete">Del</string>
+</resources>
